@@ -1,0 +1,15 @@
+
+
+# folder that needed to ignored
+venv/
+notebooks/
+docs/
+__pycache__/
+*.pyc
+outputs/
+secrets/
+
+
+# specific files to ignore
+requirements.txt
+secrets/
